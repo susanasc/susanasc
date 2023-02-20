@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola 👋, mi nombre es susana 
+#### hoja de vida
+![hoja de vida](https://i.pinimg.com/564x/ff/3f/eb/ff3feb5ae4de22f9d31b3f6a672ff499.jpg)
 
-<!--
-**susanasc/susanasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+soy aprendiz sena, apunto de terminar mi etapa lectiva, vivo en medellín antioquia, tengo 18 años.
 
-Here are some ideas to get you started:
+Habilidades: python / visual studio code / js / html / css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en en un proyecto llamado ugroup 
+- 🌱 Estoy aprendiendo node.js 
+- 👯 Quiero colaborar con empresas 
+- 💬 Pregúntame acerca de que me gusta 
+- 📫 Cómo contactarme: 3242248346 
+- 😄 Pronombres: susan 
+- ⚡ Dato curioso: me gusta mucho pintar y los animales 
+
+
+
+
